@@ -1,0 +1,125 @@
+Fecha: Viernes 31 de Oct de Octubre : de 8 a 19.
+Coste de entrada: 20€ incluye entrada, bolsa del evento (camiseta, pegatinas, colgante, etc)
+Catering: 
+Máximo de entradas: 200
+
+
+1. Camisetas:
+Organizadores y Voluntarios: Masculino y Femenino, contenido:
+- Tipos Camiseta: unisex
+	- total: 50
+	- color camiseta: Celeste del menu web
+	- color texto: Gris obscuro
+	- front: WCMallorca logo + fecha (día, mes, año) + ciudad + web + #wcmallorca
+	- back: CREW en letra grandey bold para que se lea bien, centrado arriba.
+
+Participantes: contenido:
+- Tallas: S (50), M (140), L (120), XL (50), XXL (40)
+- Tipos Camiseta: unisex
+	- color camiseta: Negro
+	- color texto: Blanco
+	- front: WCMallorca logo + fecha (día, mes, año) + ciudad + web + #wcmallorca
+
+2. Colgantes: La idea es hacerlo en dos hojas. (adjunto fotos de ejemplo)
+Primera hoja:
+	- front: WCMallorca logo + fecha (día, mes, año) + ciudad + web + #wcmallorca
+	- back: mapa indicando 4 puntos. 1. CaixaForum, 2. Pacha o Titos, prepara ambos puntos por siaca, 3. Aeropuerto, 4. Puerto.
+
+Segunda hoja:
+	- front: programa del evento: Horario Viernes 31 Oct
+	---
+		- 8:00 - 9:15 Registration
+		- 9:15 - 9:30 Welcome
+		- 9:30 - 10:15 WordPress para editoriales
+		- 10:15 - 11:00 Yoga para programadores
+		- 11:00 - 11:30 Break
+		- 11:30 - 12:15 WPML
+		- 12:15 - 13:00 Bloggeando
+		- 13:00 - 14:30 Lunch
+		- 14:30 - 15:15 Charla : Seguridad y Velocidad en WordPress
+		- 15:15 - 16:00 eCommerce
+		- 16:00 - 16:30 Break
+		- 16:30 - 17:15 WP como AppEngine
+		- 17:15 - 18:00 Como contribuir con wordpress.org
+		- 18:00 - 18:15 Cierre
+		
+		- Contributor Room: Sala X Piso X. Desarrollo plugin para accesibilidad para discapacitados.
+		- 9:00 After Party
+	--
+
+	- back: 3 listas de lugares recomendados, nombre y dirección. NOTA: no hace falta mapa
+	---
+		- Restaurantes:
+			- Sibila
+			- Noodle bar
+			- Patrón Lunares
+			- WokShak
+			- Marilin
+			- Can Joan de Saigo como típico mallorquín en el centro?
+		- Cafés:
+			- Cafe lirico
+		- Bares:
+			- Bar España
+			- Sifonería
+			- Bar Cuba
+			- Soho
+
+
+3. banderas para escenario
+	- Formato vertical
+	- Cantidad: 2, bien grandes, depende lo que pueda imprimir la imprenta.
+	- color fondo: Negro
+	- Texto Blanco
+	- front: WCMallorca logo + fecha (día, mes, año) + ciudad + web + #wcmallorca + Foto Caixa Forum o Vista Aérea de las islas + Programa del evento
+	
+
+4. pancarta entrada, la idea sería ponerla en la entrada del CaixaForum, afuera por lo que sería para exteriores.
+	- Cantidad: 1
+	- formato horizontal, medidas depende de los formatos que nos ofrezca la imprenta.
+	- front: WCMallorca logo + fecha (día, mes, año) + ciudad + web
+
+5. RollUp stand
+	- Cantidad: 1
+	- Formato Vertical (como el que teníamos en la twittpalma de gráficas salas)
+	- front: WCMallorca logo + fecha (día, mes, año) + ciudad + web + #wcmallorca + Programa del evento
+
+6. Bolsa con todo con logo de la imprenta (que nos las reglaen)
+
+
+
+Gestión del evento:
+
+Registro el día del evento:
+- Mesa con el material del evento
+- lista de los asistentes separada una hoja por letra (la lista la sacaremos de las inscripciones de la web)
+- Listado de voluntarios (tienen que estar en la localización a las 7am)
+- Guardaropa (si se puede)
+- Imprimir linas guía para voluntarios. Hashtag a user, Donde comer, Recomendaciones de charlas, localización de salas y espacios, como conectarse a la wifi, emergencias...
+
+Tareas voluntarios:
+- Time keeper. Controla el tiempo de las charlas. Necesita impreso en hojas A4 bien grande: 10, 5, 2. Para avisar al ponente cuanto tiempo le queda.
+- Mic Runner. Asistencia al público con el microfono.
+- Presentador. Abre y cierra la charla. En el cierre recomienda las siguientes.
+
+
+
+Equipo técnico
+- Sonido:
+- Servicios: "power station" alargadores, muchos alargadores.
+- Networking: puffs, mesas altas, cojines.
+- WIFI: ?
+
+
+Cobertura & Media
+- Fotógrafos oficiales: 
+- WCMallorca Blogger & Twitter Oficial: 
+- Contacto con Prensa: 
+
+
+
+Organizadores y Colaboradores:
+
+
+
+
+
